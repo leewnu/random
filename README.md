@@ -1,2 +1,2 @@
 # random
-random python stuff 
+random python scripts will be displayed in this repo
